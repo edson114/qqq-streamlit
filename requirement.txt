@@ -2,3 +2,9 @@ streamlit
 yfinance
 ta
 pandas
+numpy
+requests
+python-telegram-bot
+gspread
+oauth2client
+
